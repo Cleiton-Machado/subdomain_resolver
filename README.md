@@ -46,7 +46,9 @@ pip install requests
 [✔] Subdomínios ativos (código 200) salvos: 85
 
 
-Este projeto está licenciado sob a GNU General Public License v3.0 (GPLv3).  
+
+
+### Este projeto está licenciado sob a GNU General Public License v3.0 (GPLv3).  
 Você pode modificar e distribuir este código, mas qualquer versão derivada deve ser distribuída sob a mesma licença.  
 Veja a licença completa em: https://www.gnu.org/licenses/gpl-3.0.html
 
