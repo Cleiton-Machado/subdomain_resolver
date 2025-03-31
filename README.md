@@ -30,13 +30,21 @@ pip install requests
 
 ### Exemplo de saída:
 [+] Iniciando busca de subdomínios para exemplo.com...
+
 [+] Foram encontrados 120 subdomínios. Resolvendo IPs...
+
 [>] Resolvendo: sub1.exemplo.com -> 192.168.1.1
+
 [>] Resolvendo: sub2.exemplo.com -> Não resolvido
+
 [+] Verificando status HTTP...
+
 [>] Checando: sub1.exemplo.com -> Status 200
+
 [✔] Resultados salvos em: /caminho/para/exemplo.com_subdomains.txt
+
 [✔] Subdomínios ativos (código 200) salvos: 85
+
 
 Este projeto está licenciado sob a GNU General Public License v3.0 (GPLv3).  
 Você pode modificar e distribuir este código, mas qualquer versão derivada deve ser distribuída sob a mesma licença.  
